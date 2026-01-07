@@ -26046,7 +26046,7 @@ aDX:function aDX(){},
 QH(a,b,c){return new A.QG(a,b,c)},
 eA(a,b){return new A.Rl(a,b)},
 bBk(){var s,r,q,p=A.u(t.N,t.NY)
-for(s=0;s<34;++s){r=$.bBl[s]
+for(s=0;s<30;++s){r=$.bBl[s]
 q="https://raw.githubusercontent.com/apaonessaa/htb/refs/heads/main/Machines/"+r
 p.m(0,r,new A.Rl(q+"/REPORT.md",q+"/"))}return p},
 QG:function QG(a,b,c){this.a=a
@@ -101947,7 +101947,7 @@ return A.f([A.f([0.41233895,0.35762064,0.18051042],s),A.f([0.2126,0.7152,0.0722]
 $.Ss=A.f([95.047,100,108.883],t.n)
 $.buK=null
 $.aU4=null
-$.bBl=A.f(["2million","Active","Administrator","Artificial","BabyTwo","Backfire","Bastion","Cicada","Code","CodeTwo","Conversor","Cypher","DarkZero","Delegate","Editor","Eighteen","EscapeTwo","Expressway","Fluffy","Gavel","Giveback","Guardian","Haze","Imagery","LinkVortex","Lock","NanoCorp","Outbound","Previous","Puppy","RustyKey","Signed","Soulmate","TombWatcher"],t.s)
+$.bBl=A.f(["2million","Active","Administrator","Artificial","BabyTwo","Bastion","Cicada","Code","CodeTwo","Conversor","Cypher","Delegate","Editor","Eighteen","EscapeTwo","Expressway","Fluffy","Gavel","Guardian","Haze","Imagery","LinkVortex","Lock","Outbound","Previous","Puppy","RustyKey","Signed","Soulmate","TombWatcher"],t.s)
 $.bsA=null
 $.btv=A.f([],t.t)
 $.aYf=0
