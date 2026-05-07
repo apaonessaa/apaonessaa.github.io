@@ -97484,7 +97484,7 @@ $S:641}
 A.Te.prototype={
 al(){return new A.a71()}}
 A.a71.prototype={
-L(a){return new A.Ms(A.f([A.PZ(B.FB,"CTFs",new A.aVZ(a)),A.PZ(B.FD,"Uni Projects",new A.aW_(a)),A.PZ(B.Fz,"Personal Projects",new A.aW0(a))],t.p),this.rk(a),null)},
+L(a){return new A.Ms(A.f([A.PZ(B.FB,"CTFs",new A.aVZ(a)),A.PZ(B.FD,"University",new A.aW_(a)),A.PZ(B.Fz,"Personal",new A.aW0(a))],t.p),this.rk(a),null)},
 asr(a,b,c){this.ao(new A.aW5(this,b,c))},
 rk(a){var s=null,r=A.bKN("https://apaonessaa.github.io/resources/profile.jpg",new A.aW1(),B.AJ,100,new A.aW2(),100),q=A.eW("Student",s,s,A.af(a).ok.c,B.bS),p=A.fQ(18),o=A.adB(!1,A.fQ(18),!0,B.LH,s,!0,s,s,A.af(a).ax.b.bb(0.1),s,s,s,s,new A.aW3(a),s,s,s)
 return A.f([new A.ab0(new A.abh(r,s),50,s),B.i0,q,B.dG,A.b2j("Send an email to apaonessa@outlook.it",new A.a13(o,new A.dy(B.X,s,s,p,s,s,B.aO),s)),B.z0,A.b7f(new A.aW4(this)),B.z0],t.p)},
